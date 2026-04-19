@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-18)
+## Unreleased (2026-04-19)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c4ace9d`](https://github.com/stdlib-js/stdlib/commit/c4ace9d015730f6552a6994c34b5ea8d5480e9e5) - **refactor:** create read-only views _(by Athan Reines)_
 -   [`648e90d`](https://github.com/stdlib-js/stdlib/commit/648e90d07d66f130eca610f79242ceea902f9e10) - **feat:** add `ndarray/colcat` [(#11527)](https://github.com/stdlib-js/stdlib/pull/11527) _(by Muhammad Haris)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Muhammad Haris
 
 </section>
